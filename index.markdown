@@ -124,7 +124,7 @@ HEX: #ededed
 <h3>Logo Black Horizontal</h3>
 <img src="png/CodeAdam_Logo_Black_Horizontal.png">
 <ul>
-<li><a href="png/CodeAdam_Logo_Black_Horizontal.png" download>png/CodeAdam_Logo_Black_Horizontal.png</a></li>
+<li><a href="png/CodeAdam_Logo_Black_Horizontal.png" download>CodeAdam_Logo_Black_Horizontal.png</a></li>
 </ul>
 
 </td>
