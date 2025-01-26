@@ -93,22 +93,18 @@ HEX: #ededed
 <td width="50%">
 
 <h3>Standard Coloured Logo</h3>
-<img src="png/BrickMMO_Logo_Coloured.png">
+<img src="png/CodeAdam_Logo_Coloured.png">
 <ul>
-<li><a href="png/BrickMMO_Logo_Coloured.png" download>BrickMMO_Logo_Coloured.png</a></li>
-<li><a href="svg/BrickMMO_Logo_Coloured.svg" download>BrickMMO_Logo_Coloured.svg</a></li>
-<li><a href="eps/BrickMMO_Logo_Coloured.eps" download>BrickMMO_Logo_Coloured.eps</a></li>
+<li><a href="png/CodeAdam_Logo_Coloured.png" download>BrickMMO_Logo_Coloured.png</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>Standard Coloured Logo Horizontal</h3>
-<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
+<img src="png/CodeAdam_Logo_Coloured_Horizontal.png">
 <ul>
 <li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
-<li><a href="svg/BrickMMO_Logo_Coloured_Horizontal.svg" download>BrickMMO_Logo_Coloured_Horizontal.svg</a></li>
-<li><a href="eps/BrickMMO_Logo_Coloured_Horizontal.eps" download>BrickMMO_Logo_Coloured_Horizontal.eps</a></li>
 </ul>
 
 </td>
@@ -117,46 +113,18 @@ HEX: #ededed
 <td width="50%">
 
 <h3>Standard Logo Black </h3>
-<img src="png/BrickMMO_Logo_Black.png">
+<img src="png/CodeAdam_Logo_Black.png">
 <ul>
-<li><a href="png/BrickMMO_Logo_Black.png" download>BrickMMO_Logo_Black.png</a></li>
-<li><a href="svg/BrickMMO_Logo_Black.svg" download>BrickMMO_Logo_Black.svg</a></li>
-<li><a href="eps/BrickMMO_Logo_Black.eps" download>BrickMMO_Logo_Black.eps</a></li>
+<li><a href="png/CodeAdam_Logo_Black.png" download>CodeAdam_Logo_Black.png</a></li>
 </ul>
 
 </td>
 <td width="50%">
 
 <h3>Logo Black Horizontal</h3>
-<img src="png/BrickMMO_Logo_Black_Horizontal.png">
+<img src="png/CodeAdam_Logo_Black_Horizontal.png">
 <ul>
-<li><a href="png/BrickMMO_Logo_Black_Horizontal.png" download>png/BrickMMO_Logo_Black_Horizontal.png</a></li>
-<li><a href="svg/BrickMMO_Logo_Black_Horizontal.svg" download>BrickMMO_Logo_Black_Horizontal.svg</a></li>
-<li><a href="eps/BrickMMO_Logo_Black_Horizontal.eps" download>BrickMMO_Logo_Black_Horizontal.eps</a></li>
-</ul>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3>Standard Logo White </h3>
-<img src="png/BrickMMO_Logo_White.png">
-<ul>
-<li><a href="png/BrickMMO_Logo_White.png" download>BrickMMO_Logo_White.png</a></li>
-<li><a href="svg/BrickMMO_Logo_White.svg" download>BrickMMO_Logo_White.svg</a></li>
-<li><a href="eps/BrickMMO_Logo_White.eps" download>BrickMMO_Logo_White.eps</a></li>
-</ul>
-
-</td>
-<td width="50%">
-
-<h3>Logo White Horizontal</h3>
-<img src="png/BrickMMO_Logo_White_Horizontal.png">
-<ul>
-<li><a href="png/BrickMMO_Logo_White_Horizontal.png" download>png/BrickMMO_Logo_White_Horizontal.png</a></li>
-<li><a href="svg/BrickMMO_Logo_White_Horizontal.svg" download>BrickMMO_Logo_White_Horizontal.svg</a></li>
-<li><a href="eps/BrickMMO_Logo_White_Horizontal.eps" download>BrickMMO_Logo_White_Horizontal.eps</a></li>
+<li><a href="png/CodeAdam_Logo_Black_Horizontal.png" download>png/CodeAdam_Logo_Black_Horizontal.png</a></li>
 </ul>
 
 </td>
@@ -165,18 +133,11 @@ HEX: #ededed
 
 ## TYPOGRAPHY
 
-<img src="images/BrickMMO_Typography.jpg">
-
-- <a href="https://fonts.google.com/specimen/Lato?query=lato" target="_blank">Lato Family Font from Google Fonts</a>
-
-## LINKS
-
-- [App Icons](icons)
-- [In World Brands](world)
-- [Stacks](stacks)
+- <a href="https://fonts.google.com/specimen/Lato" target="_blank">Lato Family Font from Google Fonts</a>
+- <a href="https://fonts.google.com/specimen/PT+Sans" target="_blank">PT Sans Family Font from Google Fonts</a>
 
 ---
 
-<a href="https://brickmmo.com">
-<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="100">
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured.png" width="100">
 </a>
