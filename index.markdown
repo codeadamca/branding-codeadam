@@ -8,7 +8,7 @@
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
-## BRICKMMO LOGOS
+## CODEADAM LOGOS
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ HEX: #ededed
 <h3>Standard Coloured Logo</h3>
 <img src="png/CodeAdam_Logo_Coloured.png">
 <ul>
-<li><a href="png/CodeAdam_Logo_Coloured.png" download>BrickMMO_Logo_Coloured.png</a></li>
+<li><a href="png/CodeAdam_Logo_Coloured.png" download>CodeAdam_Logo_Coloured.png</a></li>
 </ul>
 
 </td>
@@ -104,7 +104,7 @@ HEX: #ededed
 <h3>Standard Coloured Logo Horizontal</h3>
 <img src="png/CodeAdam_Logo_Coloured_Horizontal.png">
 <ul>
-<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+<li><a href="png/CodeAdam_Logo_Coloured_Horizontal.png" download>CodeAdam_Logo_Coloured_Horizontal.png</a></li>
 </ul>
 
 </td>
