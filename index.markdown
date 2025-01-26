@@ -104,7 +104,7 @@ HEX: #ededed
 <h3>Standard Coloured Logo Horizontal</h3>
 <img src="png/CodeAdam_Logo_Coloured_Horizontal.png">
 <ul>
-<li><a href="png/BrickMMO_Logo_Coloured_Horizontal.png" download>BrickMMO_Logo_Coloured_Horizontal.png</a></li>
+<li><a href="png/CodeAdam_Logo_Coloured_Horizontal.png" download>CodeAdam_Logo_Coloured_Horizontal.png</a></li>
 </ul>
 
 </td>
