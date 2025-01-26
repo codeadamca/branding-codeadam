@@ -2,9 +2,9 @@
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-**Welcome to the BrickMMO Brand Guidelines and Standards documentation. This guide is designed to help our team, partners, and the community understand and apply our branding consistently across various media.**
+**Welcome to the CodeAdam Brand Guidelines and Standards documentation. This guide is designed to apply our branding consistently across various media.**
 
-**A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent BrickMMO. We want to communicate to our audiences in a consistent and engaging voice and look.**
+**A brand is not simply a logo or a tagline. It is a whole identity built on a foundation of values and goals that represent CodeAdam.**
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
@@ -16,20 +16,10 @@ Please refer to the publications below for the brand guidelines which review the
 
 <h3>Primary Logo:</h3>
 <p>In most circumstances, the primary logo should be used any departments that do not have an approved sub-brand logo are to use the primary logo.</p>
-<img src="png/BrickMMO_Logo_Coloured.png">
+<img src="png/CodeAdam_Logo_Coloured.png">
 
 </td>
-<td width="50%">
-
-<h3>Sub-Brand Logos:</h3>
-<p>Do not use unapproved names.
-<br>
-Put the sub-brand name under the logo and the text must be centered. 
-<br>
-Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
-<img src="png/BrickMMO_Logo_Coloured_Sub.png">
-
-</td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -37,22 +27,16 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 
 <table>
 <tr>
-<td width="33.3%">
+<td width="50%">
 
 <h3>Coloured Logo</h3>
-<img src="png/BrickMMO_Logo_Coloured.png">
+<img src="png/CodeAdam_Logo_Coloured.png">
 
 </td>
-<td width="33.3%">
+<td width="50%">
 
 <h3>Monotone Logo (Black)</h3>
-<img src="png/BrickMMO_Logo_Vertical_Black_White_Background.png">
-
-</td>
-<td width="33.3%">
-
-<h3>Monotone Logo (White)</h3>
-<img src="png/BrickMMO_Logo_White.png">
+<img src="png/CodeAdam_Logo_Black.png">
 
 </td>
 </tr>
@@ -90,34 +74,13 @@ HEX: #ff0000
 
 <strong>GREY</strong>
 <br>
-CMYK: 51 43 43 6
+CMYK: 6 6 4 0
 <br>
-RGB: 132 132 132
+RGB: 237 237 237
 <br>
-HEX: #848484
+HEX: #ededed
 <br>
 <img src="colours/Grey.jpg" width="100" height="100">
-
-</td>
-</tr>
-</table>
-
-## LOGO FORMAT
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>Vertical Format:</h3>
-<p>Opt for the vertical logo in narrow or portrait-oriented spaces and applications, especially on mobile devices, social media profiles, and merchandise items where a vertical orientation fits better within the available space.</p>
-<img src="png/BrickMMO_Logo_Coloured.png">
-
-</td>
-<td width="50%">
-
-<h3>Horizontal Format:</h3>
-<p>Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.</p>
-<img src="png/BrickMMO_Logo_Coloured_Horizontal.png">
 
 </td>
 </tr>
@@ -195,57 +158,6 @@ HEX: #848484
 <li><a href="svg/BrickMMO_Logo_White_Horizontal.svg" download>BrickMMO_Logo_White_Horizontal.svg</a></li>
 <li><a href="eps/BrickMMO_Logo_White_Horizontal.eps" download>BrickMMO_Logo_White_Horizontal.eps</a></li>
 </ul>
-
-</td>
-</tr>
-</table>
-
-## IMPROPER USES OF THE LOGO
-
-<table>
-<tr>
-<td width="33.3%">
-
-<h3>Distortion</h3>
-<img src="improper/distortion.png">
-<p>Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.</p>
-
-</td>
-<td width="33.3%">
-
-<h3>Avoid Background Clutter</h3>
-<img src="improper/background-clutter.png">
-<p>Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.</p>
-
-</td>
-<td width="33.3%">
-
-<h3>Don't Modify Design Element</h3>
-<img src="improper/modify-elements.png">
-<p>Do not alter or remove any design elements, such as symbols, or shapes, from the logo.</p>
-
-</td>
-</tr>
-<tr>
-<td width="33.3%">
-
-<h3>Avoid Altering Typography</h3>
-<img src="improper/altering-typography.png">
-<p>Keep the logo's original shape and orientation.</p>
-
-</td>
-<td width="33.3%">
-
-<h3>Avoid Unapproved Colours</h3>
-<img src="improper/unapproved-colours.png">
-<p>Do not use colours outside the approved colour palette for the logo.</p>
-
-</td>
-<td width="33.3%">
-
-<h3>Don't Add Graphic Elements</h3>
-<img src="improper/adding-graphic-elements.png">
-<p>Do not add any other graphic elements to the logos.</p>
 
 </td>
 </tr>
