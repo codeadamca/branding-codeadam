@@ -1,4 +1,4 @@
-# Branding
+# CodeAdam Branding Guidelines
 
 A repo to store branding guidelines and logo files for CodeAdam.
 
