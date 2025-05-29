@@ -136,6 +136,9 @@ HEX: #ededed
 - <a href="https://fonts.google.com/specimen/Lato" target="_blank">Lato Family Font from Google Fonts</a>
 - <a href="https://fonts.google.com/specimen/PT+Sans" target="_blank">PT Sans Family Font from Google Fonts</a>
 
+<div class="components" id="resources">--resources--</div>
+<script src="https://cdn.codeadam.ca/components@1.0.0/components.js"></script>
+
 ---
 
 <a href="https://codeadam.ca">
